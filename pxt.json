@@ -1,5 +1,6 @@
 {
     "name": "Pedra Paper Tisores",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
